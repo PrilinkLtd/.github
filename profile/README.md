@@ -1,6 +1,6 @@
 # About Us
 
-![About Us](https://prilink.com/wp-content/uploads/2017/11/aboutus-dashboards-171113.jpg)
+![About Us](assets/images/aboutus-dashboards-171113.jpg)
 
 Established in 1995, Prilink provides Network Traffic Analytics for businesses
 to ensure their networks perform as per their expectations in today’s highly
