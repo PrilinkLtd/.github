@@ -1,4 +1,4 @@
-# About Us
+# About Prilink
 
 ![About Us](profile/assets/images/aboutus-dashboards-171113.jpg)
 
